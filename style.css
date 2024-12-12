@@ -125,7 +125,12 @@ padding-top: 30px;
     font-size: 1.2rem;
     font-family: 'Zilla Slab', serif
 }
+.text3{
 
+    font-size: 1.2rem;
+    font-family: 'Zilla Slab', serif
+    color: #F9F1E9;
+}
 .heading-txt{
 font-size: 5rem;
 color: #ffff;
